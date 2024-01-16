@@ -11,7 +11,11 @@ Ser um centro de controle logístico atendendo operações diversificadas com pr
 
 **Nossos Valores**:
 **Integridade**: pensar, falar e agir com honestidade e transparência.
+
 **Comprometimento**: dedicar-se integralmente com o trabalho e equipe independente do cargo ou função que exerça.
+
 **Eficiência**: produzir e economizar em toda a atividade, proporcionando menor custo e crescimento.
+
 **Profissionalismo**: ser integro, comprometido e eficiente. Ser competente na sua atividade.
+
 **Responsabilidade Socioambiental**: ser exemplo, trabalhar com sustentabilidade para desenvolver as pessoas, comunidade e respeitar o meio ambiente.
